@@ -1,0 +1,2 @@
+[1031/124557:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12190, net_error -107
+[1031/124557:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12286, net_error -113

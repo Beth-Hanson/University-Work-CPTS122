@@ -1,0 +1,30 @@
+[1015/132436:INFO:(0)] WebCore is now online.
+[1015/132436:INFO:(0)] Running Awesomium 1.7.5.1
+[1015/132455:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12190, net_error -107
+[1015/132456:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12286, net_error -113
+[1019/154230:INFO:(0)] WebCore is now online.
+[1019/154230:INFO:(0)] Running Awesomium 1.7.5.1
+[1019/154246:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12190, net_error -107
+[1019/154246:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12286, net_error -113
+[1020/193009:INFO:(0)] WebCore is now online.
+[1020/193009:INFO:(0)] Running Awesomium 1.7.5.1
+[1020/193019:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12190, net_error -107
+[1020/193019:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12286, net_error -113
+[1022/162547:INFO:(0)] WebCore is now online.
+[1022/162547:INFO:(0)] Running Awesomium 1.7.5.1
+[1022/162601:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12190, net_error -107
+[1022/162601:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12286, net_error -113
+[1026/195932:INFO:(0)] WebCore is now online.
+[1026/195932:INFO:(0)] Running Awesomium 1.7.5.1
+[1026/195945:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12190, net_error -107
+[1026/195946:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12286, net_error -113
+[1106/111216:INFO:(0)] WebCore is now online.
+[1106/111216:INFO:(0)] Running Awesomium 1.7.5.1
+[1107/184417:INFO:(0)] WebCore is now online.
+[1107/184417:INFO:(0)] Running Awesomium 1.7.5.1
+[1107/191955:ERROR:socket_stream_dispatcher_host.cc(94)] SocketStreamMsg_ReceivedData failed.
+[1107/191955:ERROR:socket_stream_dispatcher_host.cc(166)] SocketStreamMsg_Closed failed.
+[1115/131746:INFO:(0)] WebCore is now online.
+[1115/131746:INFO:(0)] Running Awesomium 1.7.5.1
+[1205/212007:INFO:(0)] WebCore is now online.
+[1205/212007:INFO:(0)] Running Awesomium 1.7.5.1
