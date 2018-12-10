@@ -1,0 +1,5 @@
+﻿  playlist.c
+d:\microsoft visual studio\122\source\repos\pa2\pa2\playlist.c(88): warning C4013: 'gets' undefined; assuming extern returning int
+d:\microsoft visual studio\122\source\repos\pa2\pa2\playlist.c(86): warning C4101: 'temp': unreferenced local variable
+d:\microsoft visual studio\122\source\repos\pa2\pa2\playlist.c(191): warning C4101: 'temp': unreferenced local variable
+  PA2.vcxproj -> D:\Microsoft Visual Studio\122\source\repos\PA2\Debug\PA2.exe

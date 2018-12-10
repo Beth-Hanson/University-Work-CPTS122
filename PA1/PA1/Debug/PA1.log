@@ -1,0 +1,6 @@
+﻿  fitbit.c
+d:\microsoft visual studio\122\source\repos\pa1\pa1\fitbit.c(52): warning C4018: '<': signed/unsigned mismatch
+  main.c
+d:\microsoft visual studio\122\source\repos\pa1\pa1\main.c(111): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+  PA1.vcxproj -> D:\Microsoft Visual Studio\122\source\repos\PA1\Debug\PA1.exe
