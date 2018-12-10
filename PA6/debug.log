@@ -1,0 +1,38 @@
+[1023/120541:INFO:(0)] WebCore is now online.
+[1023/120541:INFO:(0)] Running Awesomium 1.7.5.1
+[1023/120552:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12190, net_error -107
+[1023/120552:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12286, net_error -113
+[1023/165323:INFO:(0)] WebCore is now online.
+[1023/165323:INFO:(0)] Running Awesomium 1.7.5.1
+[1023/165347:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12190, net_error -107
+[1023/165347:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12286, net_error -113
+[1026/195910:INFO:(0)] WebCore is now online.
+[1026/195910:INFO:(0)] Running Awesomium 1.7.5.1
+[1026/195943:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12190, net_error -107
+[1026/195943:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12286, net_error -113
+[1026/200147:INFO:(0)] WebCore is now online.
+[1026/200147:INFO:(0)] Running Awesomium 1.7.5.1
+[1026/200200:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12190, net_error -107
+[1026/200200:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12286, net_error -113
+[1026/200711:INFO:(0)] WebCore is now online.
+[1026/200711:INFO:(0)] Running Awesomium 1.7.5.1
+[1026/200728:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12190, net_error -107
+[1026/200728:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12286, net_error -113
+[1027/092525:INFO:(0)] WebCore is now online.
+[1027/092525:INFO:(0)] Running Awesomium 1.7.5.1
+[1027/092543:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12190, net_error -107
+[1027/092544:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12286, net_error -113
+[1029/101637:INFO:(0)] WebCore is now online.
+[1029/101637:INFO:(0)] Running Awesomium 1.7.5.1
+[1029/101650:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12190, net_error -107
+[1029/101650:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server eecs.wsu.edu:443 failed; NSS error code -12286, net_error -113
+[1107/184142:INFO:(0)] WebCore is now online.
+[1107/184142:INFO:(0)] Running Awesomium 1.7.5.1
+[1115/131816:INFO:(0)] WebCore is now online.
+[1115/131816:INFO:(0)] Running Awesomium 1.7.5.1
+[1116/145805:INFO:(0)] WebCore is now online.
+[1116/145805:INFO:(0)] Running Awesomium 1.7.5.1
+[1119/151040:INFO:(0)] WebCore is now online.
+[1119/151040:INFO:(0)] Running Awesomium 1.7.5.1
+[1119/172715:INFO:(0)] WebCore is now online.
+[1119/172715:INFO:(0)] Running Awesomium 1.7.5.1

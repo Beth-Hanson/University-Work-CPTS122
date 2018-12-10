@@ -1,0 +1,87 @@
+﻿  Background.cpp
+  Menu.cpp
+c:\users\elisa\documents\wsu\cpts 122\pa-9\pa9\pa9\menu.cpp(16): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\elisa\documents\wsu\cpts 122\pa-9\pa9\pa9\menu.cpp(16): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\elisa\documents\wsu\cpts 122\pa-9\pa9\pa9\menu.cpp(20): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\elisa\documents\wsu\cpts 122\pa-9\pa9\pa9\menu.cpp(24): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Obstacle.cpp
+  Parachuter.cpp
+  main.cpp
+c:\users\elisa\documents\wsu\cpts 122\pa-9\pa9\pa9\main.cpp(19): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\elisa\documents\wsu\cpts 122\pa-9\pa9\pa9\main.cpp(20): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\elisa\documents\wsu\cpts 122\pa-9\pa9\pa9\main.cpp(21): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\elisa\documents\wsu\cpts 122\pa-9\pa9\pa9\main.cpp(22): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\elisa\documents\wsu\cpts 122\pa-9\pa9\pa9\main.cpp(24): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\elisa\documents\wsu\cpts 122\pa-9\pa9\pa9\main.cpp(25): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\elisa\documents\wsu\cpts 122\pa-9\pa9\pa9\main.cpp(26): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\elisa\documents\wsu\cpts 122\pa-9\pa9\pa9\main.cpp(27): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\elisa\documents\wsu\cpts 122\pa-9\pa9\pa9\main.cpp(104): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\elisa\documents\wsu\cpts 122\pa-9\pa9\pa9\main.cpp(105): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\elisa\documents\wsu\cpts 122\pa-9\pa9\pa9\main.cpp(106): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\elisa\documents\wsu\cpts 122\pa-9\pa9\pa9\main.cpp(107): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  PA9.vcxproj -> C:\Users\elisa\Documents\WSU\Cpts 122\PA-9\PA9\Debug\PA9.exe

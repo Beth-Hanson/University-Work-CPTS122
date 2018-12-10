@@ -1,0 +1,3 @@
+﻿  BST.cpp
+d:\microsoft visual studio\122\source\repos\pa8\pa8\bst.cpp(85): warning C4715: 'BST::search': not all control paths return a value
+  PA8.vcxproj -> D:\Microsoft Visual Studio\122\source\repos\PA8\x64\Debug\PA6.exe
